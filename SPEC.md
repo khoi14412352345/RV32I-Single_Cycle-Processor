@@ -1,6 +1,4 @@
-# VNCHIP RISCV Computer Structure
-
-## Lab 6: RV32I Single Cycle
+## RV32I Single Cycle
 
 ## Objective
 
