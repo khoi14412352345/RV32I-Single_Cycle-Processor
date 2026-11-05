@@ -30,9 +30,6 @@ wastes time and effort.
 
 # 1. Lab Setup
 
-Copy:
-
-`/VNCHIP/TP2026/1_RTL/0_COMMON/0707_RTL_LAB/Lab6`
 
 The RTL directory should contain:
 
